@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.left{
+    width: 30%;
+    height: 200px;
+    background-color: gainsboro;
+    float: left;
+}
+.right{
+    width: 70%;
+    height: 200px;
+    background-color: gray;
+    float: left;
+}
